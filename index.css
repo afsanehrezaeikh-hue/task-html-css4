@@ -70,23 +70,38 @@ padding-top: 6px;
     padding: 7px;
     border-bottom: 2px solid gray;
 }
-#course{
-    width: 100%;
-    height: 100px;
-    border-collapse:separate;
-    border-spacing: 0 10px;
+
+#number1{
+    width: 500px;
+    height: 40px;
+     background-color: rgb(183, 179, 179);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     border-radius: 5px;
-    direction: rtl;
-
-}
-#course td{
-background-color: rgb(217, 214, 214);
-border: none;
-border-radius: 6px;
-padding: 12px 20px;
-
-
+    margin-bottom: 10px;
 } 
+#number2{
+    width: 500px;
+    height: 40px;
+     background-color: rgb(183, 179, 179);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+} 
+#number3{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(183, 179, 179);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+} 
+
 
 #register button{
 background-color: rgb(85, 175, 175);
